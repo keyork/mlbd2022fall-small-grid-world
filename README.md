@@ -1,5 +1,6 @@
 # mlbd2022fall-small-grid-world
-2022机器学习与大数据作业9
+
+2022 机器学习与大数据作业 9, code here: https://github.com/keyork/mlbd2022fall-small-grid-world
 
 ## Envs
 
@@ -117,3 +118,8 @@ set `agent mind` = $[p_{left}, p_{right}, p_{up}, p_{down}]$ = `[0.25, 0.25, 0.2
 
 ## Output in Terminal
 
+<img src="report_img/image-20221122164941755.png" alt="image-20221122164941755" style="zoom: 33%;" /><img src="report_img/image-20221122165026923.png" alt="image-20221122165026923" style="zoom: 33%;" /><img src="report_img/image-20221122165103678.png" alt="image-20221122165103678" style="zoom: 33%;" /><img src="report_img/image-20221122165424154.png" alt="image-20221122165424154" style="zoom:33%;" />
+
+If you input error `agent mind`, the program will report an error like this:
+
+<img src="report_img/image-20221122165321351.png" alt="image-20221122165321351" style="zoom:50%;" />
